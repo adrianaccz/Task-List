@@ -1,2 +1,2 @@
 # Task-List
-Tass list with React.js
+Task list with React.js
